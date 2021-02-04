@@ -10,4 +10,5 @@
     <string name="round_up_tip">Round up tip?</string>
     <string name="okay_15">Okay (15%)</string>
     <string name="good_18">Good (18%)</string>
+    <string name="email_icon">email_icon</string>
 </resources>
